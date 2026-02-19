@@ -1,0 +1,7 @@
+{
+  "name": "Locato",
+  "description": "A smart restaurant finder app powered by Gemini AI and Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
